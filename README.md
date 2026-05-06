@@ -44,8 +44,6 @@
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hungdaden&show_icons=true&theme=tokyonight)
-
 
 ## 🧠 What I'm Working On
 
