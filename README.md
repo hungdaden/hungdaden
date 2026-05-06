@@ -68,3 +68,7 @@
     <img src="https://img.shields.io/badge/Facebook-0A1A2F?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Flutter+Developer+📱"/>
+</p>
