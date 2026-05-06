@@ -66,15 +66,11 @@
 
 <p align="center">
   <a href="mailto:hunghoang00a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=0d1117&color=00ffff"/>
+    <img src="https://img.shields.io/badge/Gmail-0A1A2F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://facebook.com/laylieeee">
-    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00ffff&labelColor=0d1117&color=00ffff"/>
+    <img src="https://img.shields.io/badge/Facebook-0A1A2F?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Flutter+Developer+📱;"/>
 </p>
 
 ---
