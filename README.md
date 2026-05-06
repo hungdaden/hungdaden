@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=110&animation=fadeIn"/>
 </p>
-
 <h1 align="center">👋 Hi, I'm Hung Hoang</h1>
 
 <p align="center">
