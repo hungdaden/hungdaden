@@ -1,16 +1,86 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=Hung%20Hoang&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**hungdaden/hungdaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Hung Hoang</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  📱 Flutter Developer • 🌐 Web/App Builder • 🚀 Passion for Clean UI & Performance
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+* 📱 Flutter Developer focusing on **cross-platform mobile apps**
+* 🌐 Building **web & app solutions with modern UI/UX**
+* ⚡ Strong interest in **performance optimization & clean architecture**
+* 🔄 Experience working with REST APIs & backend integration
+* 🎯 Goal: Become a **professional Flutter Engineer / Fullstack Developer**
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
+### 📱 Mobile & Web
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
+
+### ⚙️ Backend & Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+
+---
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hungdaden&show_icons=true&theme=tokyonight)
+
+
+## 🧠 What I'm Working On
+
+* 📱 Building scalable Flutter apps
+* 🎨 Improving UI/UX with responsive design
+* ⚡ Optimizing app performance & state management
+* 🔗 Integrating APIs & real-time services
+
+---
+
+## 🚀 Featured Projects
+
+* 📱 **Onseat Order** – Clean Flutter app for ordering with API integration.
+* 📦 **Toeic Tracker** – Simple TOEIC score tracker app with clean UI and progress monitoring.
+* Coming soon! ... *
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:hunghoang00a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=0d1117&color=00ffff"/>
+  </a>
+  <a href="https://facebook.com/laylieeee">
+    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00ffff&labelColor=0d1117&color=00ffff"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Let's+build+something+cool+together+🚀;Flutter+Developer+📱;Clean+UI+%7C+High+Performance+⚡"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer"/>
+</p>
