@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Let's+build+something+cool+together+🚀;Flutter+Developer+📱;Clean+UI+%7C+High+Performance+⚡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Flutter+Developer+📱;"/>
 </p>
 
 ---
