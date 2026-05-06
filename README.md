@@ -64,7 +64,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:hunghoang00a@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hunghoang00a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0A1A2F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://facebook.com/laylieeee">
